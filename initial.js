@@ -31,7 +31,7 @@ function convertCountryCode(country){
 
 const OnLoadFunction = (location) =>{
 
-    const API_KEY = '859e48946ecf13997c20ae93dca8944b';
+    const API_KEY = '******************************';
     
     if(location){
         for(area of location){
